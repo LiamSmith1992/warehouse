@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://wtop.com/wp-content/uploads/2020/12/GettyImages-1193312195.jpg);
+}
+
+.cardy {
+  min-width: 85px;
+  min-height: 65px;
+  background-color: rgba(0, 255, 255, 0.426);
+  border: 5px solid;
+  border-color: black;
+}
